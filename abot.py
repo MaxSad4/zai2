@@ -9,7 +9,7 @@ from telebot import types
 from io import BytesIO
 from datetime import datetime
 from docxtpl import DocxTemplate, InlineImage
-from docx.shared import Mm, Inches, Pt
+from docx.shared import Mm
 
 now = datetime.now()
 
